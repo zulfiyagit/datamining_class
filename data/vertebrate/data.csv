@@ -1,17 +1,16 @@
-Name,Body Temperature,Skin Cover,Gives Birth,Aquatic Creature,Aerial Creature,Has Legs,Hibernates,Class Label
-human,warm-blooded,hair,yes,no,no,yes,no,mammal
-python,cold-blooded,scales,no,no,no,no,yes,reptile
-salmon,cold-blooded,scales,no,yes,no,no,no,fish
-whale,warm-blooded,hair,yes,yes,no,no,no,mammal
-frog,cold-blooded,none,no,semi,no,yes,yes,amphibian
-komodo dragon,cold-blooded,scales,no,no,no,yes,no,reptile
-bat,warm-blooded,hair,yes,no,yes,yes,yes,mammal
-pigeon,warm-blooded,feathers,no,no,yes,yes,no,bird
-cat,warm-blooded,fur,yes,no,no,yes,no,mammal
-leopard shark,cold-blooded,scales,yes,yes,no,no,no,fish
-turtle,cold-blooded,scales,no,semi,no,yes,no,reptile
-penguin,warm-blooded,feathers,no,semi,no,yes,no,bird
-porcupine,warm-blooded,quills,yes,no,no,yes,yes,mammal
-eel,cold-blooded,scales,no,yes,no,no,no,fish
-salamander,cold-blooded,none,no,semi,no,yes,yes,amphibian
-gila monster,cold-blooded,scales,no,no,no,yes,yes,
+Name,Warm-blooded,Gives Birth,Aquatic Creature,Aerial Creature,Has Legs,Hibernates,Class
+human,1,1,0,0,1,0,mammal
+python,0,0,0,0,0,1,reptile
+salmon,0,0,1,0,0,0,fish
+whale,1,1,1,0,0,0,mammal
+frog,0,0,1,0,1,1,amphibian
+komodo dragon,0,0,0,0,1,0,reptile
+bat,1,1,0,1,1,1,mammal
+pigeon,1,0,0,1,1,0,bird
+cat,1,1,0,0,1,0,mammal
+leopard shark,0,1,1,0,0,0,fish
+turtle,0,0,1,0,1,0,reptile
+penguin,1,0,1,0,1,0,bird
+porcupine,1,1,0,0,1,1,mammal
+eel,0,0,1,0,0,0,fish
+salamander,0,0,1,0,1,1,amphibian
